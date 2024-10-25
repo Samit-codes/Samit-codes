@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=700&height=70&center=true&size=37&lines=Hi,++I'm+Samit+👋;Welcome+To+My+Github+Profile;)](https://git.io/typing-svg)
   
-<p align=center><strong> Searching for the DJKSTARA algorithm of your heart </strong></p>
+<p align=center><strong>Ultimate Goal: Searching for the DJKSTARA algorithm to your heart.</strong></p>
 
 ```bash
 > whoami
