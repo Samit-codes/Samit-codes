@@ -1,8 +1,8 @@
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=700&height=70&center=true&size=37&lines=Hi+there,++friend+👋;Welcome+To+My+Github+Profile;The+Name+is+Samit+Samanta)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=700&height=70&center=true&size=37&lines=Hi,++I'm+Samit+👋;Welcome+To+My+Github+Profile;)](https://git.io/typing-svg)
   
-<p align=center><strong> A passionately curious person </strong></p>
+<p align=center><strong> Searching for the DJKSTARA algorithm of your heart </strong></p>
 
 ```bash
 > whoami
